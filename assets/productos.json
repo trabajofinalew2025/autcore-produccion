@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "nombre": "PLC Siemens S7",
+    "codigo": "6ES7-214-1AG40-0XB0",
+    "categoria": "PLCs",
+    "marca": "Siemens",
+    "descripcion": "Controlador lógico programable ideal para automatización industrial con alta confiabilidad.",
+    "precio": 1200,
+    "precioAnterior": 1399,
+    "imagen": "assets/productos/PLCS.jpg",
+    "imagenes": [
+      "assets/productos/PLCS.jpg",
+      "assets/productos/PLCS_1.jpg",
+      "assets/productos/PLCS_2.jpg"
+    ],
+    "stock": 8,
+    "garantiaMeses": 12,
+    "envioDias": "1–2 días",
+    "specs": {
+      "screenSize": "—",
+      "resolution": "—",
+      "refreshRate": "—",
+      "pixelDensity": "—",
+      "screenType": "—",
+      "additionally": [
+        "Compatible con TIA Portal",
+        "Módulos de expansión disponibles",
+        "Montaje sobre riel DIN"
+      ],
+      "cpu": "CPU integrada Siemens",
+      "cores": 1
+    },
+    "rating": 4.8,
+    "reviewsCount": 32,
+    "reviews": [
+      {
+        "author": "Juan Pérez",
+        "date": "2024-01-10",
+        "rating": 5,
+        "comment": "Excelente PLC para aplicaciones de automatización de tamaño medio. Estable y fácil de configurar.",
+        "avatar": "assets/reviews/user1.jpg"
+      },
+      {
+        "author": "María López",
+        "date": "2024-02-05",
+        "rating": 4,
+        "comment": "Muy fiable, aunque la curva de aprendizaje de TIA Portal es un poco alta.",
+        "avatar": "assets/reviews/user2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "HMI PanelView 7",
+    "codigo": "2711P-T7C4D9",
+    "categoria": "HMIs",
+    "marca": "Allen-Bradley",
+    "descripcion": "Interfaz hombre-máquina táctil para supervisión de procesos industriales.",
+    "precio": 850,
+    "precioAnterior": 920,
+    "imagen": "assets/productos/HMIS.jpg",
+    "imagenes": [
+      "assets/productos/HMIS.jpg",
+      "assets/productos/HMIS_1.jpg"
+    ],
+    "stock": 5,
+    "garantiaMeses": 12,
+    "envioDias": "2–3 días",
+    "specs": {
+      "screenSize": "7\"",
+      "resolution": "800x480",
+      "refreshRate": "60 Hz",
+      "pixelDensity": "—",
+      "screenType": "TFT táctil",
+      "additionally": [
+        "Pantalla a color",
+        "Interfaz táctil resistente",
+        "Ideal para paneles de control"
+      ],
+      "cpu": "Embedded HMI CPU",
+      "cores": 1
+    },
+    "rating": 4.6,
+    "reviewsCount": 21,
+    "reviews": [
+      {
+        "author": "Luis Aguilar",
+        "date": "2024-03-01",
+        "rating": 5,
+        "comment": "Muy buena visibilidad y fácil de integrar con PLC Allen-Bradley.",
+        "avatar": "assets/reviews/user3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Variador ABB ACS355",
+    "codigo": "ACS355-01E-07A5-2",
+    "categoria": "Drives",
+    "marca": "ABB",
+    "descripcion": "Variador de frecuencia compacto para control de motores eléctricos.",
+    "precio": 950,
+    "precioAnterior": 1050,
+    "imagen": "assets/productos/variador.jpg",
+    "imagenes": [
+      "assets/productos/variador.jpg",
+      "assets/productos/variador_1.jpg"
+    ],
+    "stock": 6,
+    "garantiaMeses": 18,
+    "envioDias": "3–4 días",
+    "specs": {
+      "screenSize": "—",
+      "resolution": "—",
+      "refreshRate": "—",
+      "pixelDensity": "—",
+      "screenType": "—",
+      "additionally": [
+        "Control vectorial",
+        "Protección contra sobrecargas",
+        "Montaje en panel"
+      ],
+      "cpu": "Controlador integrado",
+      "cores": 1
+    },
+    "rating": 4.7,
+    "reviewsCount": 18,
+    "reviews": [
+      {
+        "author": "Roberto Díaz",
+        "date": "2024-02-18",
+        "rating": 5,
+        "comment": "Excelente control para motores en bombas y ventiladores, muy estable.",
+        "avatar": "assets/reviews/user4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Multímetro Fluke 117",
+    "codigo": "FLUKE-117",
+    "categoria": "Herramientas",
+    "marca": "Fluke",
+    "descripcion": "Multímetro digital de alta precisión para técnicos eléctricos.",
+    "precio": 399,
+    "precioAnterior": 430,
+    "imagen": "assets/productos/multimetro.png",
+    "imagenes": [
+      "assets/productos/multimetro.png",
+      "assets/productos/multimetro_1.png"
+    ],
+    "stock": 15,
+    "garantiaMeses": 24,
+    "envioDias": "1–2 días",
+    "specs": {
+      "screenSize": "Display segmentado",
+      "resolution": "6000 cuentas",
+      "refreshRate": "—",
+      "pixelDensity": "—",
+      "screenType": "LCD",
+      "additionally": [
+        "Medición True-RMS",
+        "Detección de voltaje sin contacto",
+        "Iluminación de fondo"
+      ],
+      "cpu": "Chip de medición especializado",
+      "cores": 1
+    },
+    "rating": 4.9,
+    "reviewsCount": 45,
+    "reviews": [
+      {
+        "author": "Ana Torres",
+        "date": "2024-01-30",
+        "rating": 5,
+        "comment": "Fluke nunca falla, ideal para trabajo diario en campo.",
+        "avatar": "assets/reviews/user5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Contactores Schneider",
+    "codigo": "LC1D09M7",
+    "categoria": "Eléctrico",
+    "marca": "Schneider",
+    "descripcion": "Contactores para maniobra de motores, confiables y duraderos.",
+    "precio": 369,
+    "precioAnterior": 399,
+    "imagen": "assets/productos/contactorsnider.jpg",
+    "imagenes": [
+      "assets/productos/contactorsnider.jpg"
+    ],
+    "stock": 20,
+    "garantiaMeses": 12,
+    "envioDias": "2–3 días",
+    "specs": {
+      "screenSize": "—",
+      "resolution": "—",
+      "refreshRate": "—",
+      "pixelDensity": "—",
+      "screenType": "—",
+      "additionally": [
+        "Uso para motores trifásicos",
+        "Alta vida útil eléctrica",
+        "Montaje en riel DIN"
+      ],
+      "cpu": "—",
+      "cores": 0
+    },
+    "rating": 4.5,
+    "reviewsCount": 12,
+    "reviews": [
+      {
+        "author": "Pedro Castillo",
+        "date": "2024-04-02",
+        "rating": 4,
+        "comment": "Buen contactor, relación calidad/precio adecuada.",
+        "avatar": "assets/reviews/user6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Pack Herramientas Milwaukee",
+    "codigo": "M18FPP2A-523P",
+    "categoria": "Herramientas",
+    "marca": "Milwaukee",
+    "descripcion": "Kit de taladro y atornillador inalámbricos profesionales.",
+    "precio": 1799,
+    "precioAnterior": 1899,
+    "imagen": "assets/productos/pack.jpg",
+    "imagenes": [
+      "assets/productos/pack.jpg",
+      "assets/productos/pack_1.jpg"
+    ],
+    "stock": 4,
+    "garantiaMeses": 24,
+    "envioDias": "3–5 días",
+    "specs": {
+      "screenSize": "—",
+      "resolution": "—",
+      "refreshRate": "—",
+      "pixelDensity": "—",
+      "screenType": "—",
+      "additionally": [
+        "Incluye baterías y cargador",
+        "Motor brushless",
+        "Uso profesional diario"
+      ],
+      "cpu": "Control electrónico integrado",
+      "cores": 1
+    },
+    "rating": 4.9,
+    "reviewsCount": 27,
+    "reviews": [
+      {
+        "author": "Héctor Ramírez",
+        "date": "2024-03-18",
+        "rating": 5,
+        "comment": "Potencia y duración de batería excelentes, ideal para montaje de tableros.",
+        "avatar": "assets/reviews/user7.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Sensor Proximidad Omron",
+    "codigo": "E2E-X5ME1",
+    "categoria": "Eléctrico",
+    "marca": "Omron",
+    "descripcion": "Sensor inductivo M12 para detección sin contacto.",
+    "precio": 99.99,
+    "precioAnterior": 120,
+    "imagen": "assets/productos/sensor.jpg",
+    "imagenes": [
+      "assets/productos/sensor.jpg"
+    ],
+    "stock": 50,
+    "garantiaMeses": 12,
+    "envioDias": "1–2 días",
+    "specs": {
+      "screenSize": "—",
+      "resolution": "—",
+      "refreshRate": "—",
+      "pixelDensity": "—",
+      "screenType": "—",
+      "additionally": [
+        "Distancia de detección 5 mm",
+        "Salida NPN",
+        "Protección IP67"
+      ],
+      "cpu": "—",
+      "cores": 0
+    },
+    "rating": 4.4,
+    "reviewsCount": 9,
+    "reviews": [
+      {
+        "author": "Jorge Ramos",
+        "date": "2024-02-12",
+        "rating": 4,
+        "comment": "Funciona bien en ambientes con polvo y humedad.",
+        "avatar": "assets/reviews/user8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Switch Industrial CMR2040",
+    "codigo": "6GK7142-7EX00-0AX0",
+    "categoria": "Eléctrico",
+    "marca": "Siemens",
+    "descripcion": "Switch administrable industrial para redes Ethernet en planta.",
+    "precio": 398,
+    "precioAnterior": 450,
+    "imagen": "assets/productos/switchindustrial.jpg",
+    "imagenes": [
+      "assets/productos/switchindustrial.jpg",
+      "assets/productos/switchindustrial_1.jpg"
+    ],
+    "stock": 7,
+    "garantiaMeses": 24,
+    "envioDias": "2–3 días",
+    "specs": {
+      "screenSize": "—",
+      "resolution": "—",
+      "refreshRate": "—",
+      "pixelDensity": "—",
+      "screenType": "—",
+      "additionally": [
+        "Puertos Ethernet industriales",
+        "Montaje en riel DIN",
+        "Soporte para VLAN y gestión remota"
+      ],
+      "cpu": "Controlador de switching",
+      "cores": 1
+    },
+    "rating": 4.7,
+    "reviewsCount": 16,
+    "reviews": [
+      {
+        "author": "Daniel Flores",
+        "date": "2024-03-05",
+        "rating": 5,
+        "comment": "Muy estable en redes industriales, no hemos tenido caídas.",
+        "avatar": "assets/reviews/user9.jpg"
+      }
+    ]
+  }
+]
